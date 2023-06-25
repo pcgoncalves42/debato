@@ -1,16 +1,23 @@
-# debato
+# Debato
 
-A new Flutter project.
+Bem-vindo ao Debato, um protótipo de aplicativo desenvolvido durante a imersão em Inteligência Artificial (IA) da Alura.
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+O Debato é um espaço de discussão onde os usuários podem criar posts e realizar comentários sobre diversos assuntos. O objetivo do aplicativo é promover uma plataforma de discussão inteligente, onde tanto os posts quanto os comentários são avaliados e aprovados por IA.
 
-A few resources to get you started if this is your first Flutter project:
+O aplicativo utiliza a API do ChatGPT para tentar analisar e classificar o conteúdo gerado pelos usuários, visando uma experiência de discussão de alta qualidade.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Funcionalidades
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Criação de posts: Os usuários podem criar posts sobre os assuntos de seu interesse.
+- Avaliação por IA: Os posts passam por uma análise de IA para serem avaliados e aprovados antes de serem exibidos na plataforma.
+- Comentários: Os usuários podem realizar comentários nos posts existentes.
+- Avaliação de comentários: Assim como os posts, os comentários também são avaliados e aprovados por IA para garantir a qualidade das discussões.
+
+## Tecnologias utilizadas
+
+- Flutter: Framework de desenvolvimento de aplicativos móveis multiplataforma.
+- Firebase: Plataforma de desenvolvimento de aplicativos móveis do Google, utilizada para autenticação e armazenamento de dados.
+- OpenAI: Plataforma de IA utilizada para análise e classificação de conteúdo.
+

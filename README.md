@@ -21,3 +21,5 @@ O aplicativo utiliza a API do ChatGPT para tentar analisar e classificar o conte
 - Firebase: Plataforma de desenvolvimento de aplicativos móveis do Google, utilizada para autenticação e armazenamento de dados.
 - OpenAI: Plataforma de IA utilizada para análise e classificação de conteúdo.
 
+##  Sobre
+https://gamma.app/docs/Debato-O-Aplicativo-para-discussoes-oij5w2iimx3carv

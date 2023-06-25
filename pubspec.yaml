@@ -1,0 +1,47 @@
+name: debato
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  google_fonts: ^4.0.4
+  connectivity_plus: ^4.0.1
+  intl: ^0.18.1
+  firebase_core: ^2.14.0
+  firebase_analytics: ^10.4.3
+  firebase_crashlytics: ^3.3.3
+  firebase_messaging: ^14.6.3
+  cloud_firestore: ^4.8.1
+  firebase_auth: ^4.6.3
+  http: ^0.13.6
+  just_the_tooltip: ^0.0.12
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/img/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/img/icon.png
